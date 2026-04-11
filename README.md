@@ -224,5 +224,3 @@ scikit-learn>=1.0.0
 MIT License - 随意使用，但请注明来源
 
 ---
-
-*Made with ❤️ for learning*
